@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://apps.apple.com/us/developer/tanvir-ahmed/id1691749306](https://apps.apple.com/us/developer/tanvir-ahmed/id1691749306)
 
-- 💬 Ask me about **Java, Python, JavaScript, React, Node.js, Express, and MongoDB **
+- 💬 Ask me about: Java, Python, JavaScript, React, Node.js, Express, and MongoDB
 
 - 📫 How to reach me **atanvir047@gmail.com**
 
