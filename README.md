@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://apps.apple.com/us/developer/tanvir-ahmed/id1691749306](https://apps.apple.com/us/developer/tanvir-ahmed/id1691749306)
-
-- 💬 Ask me about: **Java, Python, JavaScript, React, Node.js, Spring Boot, and MySQL**
+- 💬 Ask me about: **Java, Python, JavaScript, React, Spring Boot, and MySQL**
 
 - 📫 How to reach me **atanvir047@gmail.com**
 
